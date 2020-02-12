@@ -1,5 +1,4 @@
-git pull
-git add -A
-git commit -m "lecture materials update"
-git push
-pause
+1.安装git
+1.1 下载git
+1.2 安装git
+2.注册github账号
